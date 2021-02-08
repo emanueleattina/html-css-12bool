@@ -1,0 +1,30 @@
+.bg-pink
+{
+  background: #ffb7b6;
+}
+
+.bg-red
+{
+  background: #eb9785;
+}
+
+.border-black
+{
+  border: 1px solid #000;
+}
+
+.border-white
+{
+  border: 1px solid #fff;
+}
+
+[class*="col-"]
+{
+  text-align: center;
+  /* padding: 75px 0; */
+}
+
+.pad
+{
+  padding: 75px 0;
+}
