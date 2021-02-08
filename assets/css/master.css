@@ -31,9 +31,14 @@
   padding: 75px 0;
 }
 
-.pad-3
+.testo-ultima-riga
 {
-  padding: 4px;
+  padding: 70px 0;
+}
+
+.pad-ultima-riga
+{
+  padding: 3px;
 }
 
 /* -------------------- */
