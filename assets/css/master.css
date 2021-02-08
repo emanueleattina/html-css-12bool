@@ -24,7 +24,35 @@
   /* padding: 75px 0; */
 }
 
+/* PROVA PADDING A SPAN */
+
+.testo
+{
+  padding: 75px 0;
+}
+
+.pad-3
+{
+  padding: 4px;
+}
+
+/* -------------------- */
+
+/* PROVA PADDING A COLONNE */
+
 .pad
 {
   padding: 75px 0;
 }
+
+.pad-2
+{
+  padding: 70px 0;
+}
+
+.pad-3
+{
+  padding: 4px;
+}
+
+/* -------------------- */
